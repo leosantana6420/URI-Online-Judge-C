@@ -25,10 +25,6 @@ int main(void)
     printf("Rio de Janeiro");
     break;
 
-    case (5):
-    printf("May");
-    break;
-
     case (32):
     printf("Juiz de Fora");
     break;
